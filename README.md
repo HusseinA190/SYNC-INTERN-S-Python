@@ -1,2 +1,3 @@
-# SYNC-INTERN-S-Python
-A repo that will cintains all tasks that i have done through my python virtual internship at Sync Intern's
+version https://git-lfs.github.com/spec/v1
+oid sha256:50d794b984ea3fac3b93baad383d0505124ebcaa7bf56431456bbfccbc48bdac
+size 132
